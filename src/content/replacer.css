@@ -1,0 +1,46 @@
+.gb-verse-replacement {
+  box-sizing: border-box !important;
+  place-items: center !important;
+  align-content: center !important;
+  gap: 10px !important;
+  max-width: 100% !important;
+  min-width: 160px !important;
+  min-height: 120px !important;
+  padding: 18px !important;
+  border: 2px solid #111 !important;
+  border-radius: 4px !important;
+  background: #fff !important;
+  color: #111 !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  text-align: center !important;
+  cursor: pointer !important;
+  overflow: hidden !important;
+  text-decoration: none !important;
+  line-height: 1.35 !important;
+  contain: content !important;
+}
+
+.gb-verse-replacement:focus {
+  outline: 3px solid #111 !important;
+  outline-offset: 3px !important;
+}
+
+.gb-verse-replacement:hover {
+  background: #f4f4f4 !important;
+}
+
+.gb-verse-text {
+  display: block !important;
+  max-width: 65ch !important;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  overflow-wrap: anywhere !important;
+}
+
+.gb-verse-reference {
+  display: block !important;
+  font-size: 13px !important;
+  font-weight: 400 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0 !important;
+}

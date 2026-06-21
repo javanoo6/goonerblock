@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "Goonerblock",
+  "version": "0.1.0",
+  "description": "Replaces Pornhub video surfaces with Bible verses.",
+  "host_permissions": [
+    "https://www.pornhub.com/*",
+    "https://pornhub.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.pornhub.com/*",
+        "https://pornhub.com/*"
+      ],
+      "css": ["src/content/replacer.css"],
+      "js": [
+        "src/lib/verses.js",
+        "src/content/pornhub-replacer.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "data/verses.synodal.json",
+        "data/verses.en.json"
+      ],
+      "matches": [
+        "https://www.pornhub.com/*",
+        "https://pornhub.com/*"
+      ]
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "goonerblock@example.local"
+    }
+  }
+}

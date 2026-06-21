@@ -1,0 +1,40 @@
+{
+  "source": "getBible v2",
+  "translation": "asv",
+  "language": "en",
+  "verses": [
+    {
+      "id": "asv:43:3:16",
+      "translation": "asv",
+      "language": "en",
+      "bookNumber": 43,
+      "book": "John",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "John 3:16",
+      "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth on him should not perish, but have eternal life."
+    },
+    {
+      "id": "asv:43:8:12",
+      "translation": "asv",
+      "language": "en",
+      "bookNumber": 43,
+      "book": "John",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "John 8:12",
+      "text": "I am the light of the world: he that followeth me shall not walk in the darkness."
+    },
+    {
+      "id": "asv:50:4:13",
+      "translation": "asv",
+      "language": "en",
+      "bookNumber": 50,
+      "book": "Philippians",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Philippians 4:13",
+      "text": "I can do all things in him that strengtheneth me."
+    }
+  ]
+}

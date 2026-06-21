@@ -1,0 +1,227 @@
+{
+  "source": "getBible v2",
+  "translation": "synodal",
+  "language": "ru",
+  "verses": [
+    {
+      "id": "synodal:1:1:1",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 1,
+      "book": "Бытие",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Бытие 1:1",
+      "text": "В начале сотворил Бог небо и землю."
+    },
+    {
+      "id": "synodal:19:22:2",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 19,
+      "book": "Псалтирь",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Псалтирь 22:2",
+      "text": "Господь - Пастырь мой; я ни в чем не буду нуждаться."
+    },
+    {
+      "id": "synodal:19:26:1",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 19,
+      "book": "Псалтирь",
+      "chapter": 26,
+      "verse": 1,
+      "reference": "Псалтирь 26:1",
+      "text": "Господь - свет мой и спасение мое: кого мне бояться?"
+    },
+    {
+      "id": "synodal:19:118:105",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 19,
+      "book": "Псалтирь",
+      "chapter": 118,
+      "verse": 105,
+      "reference": "Псалтирь 118:105",
+      "text": "Слово Твое - светильник ноге моей и свет стезе моей."
+    },
+    {
+      "id": "synodal:20:3:5",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 20,
+      "book": "Притчи",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Притчи 3:5",
+      "text": "Надейся на Господа всем сердцем твоим, и не полагайся на разум твой."
+    },
+    {
+      "id": "synodal:23:41:10",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 23,
+      "book": "Исаия",
+      "chapter": 41,
+      "verse": 10,
+      "reference": "Исаия 41:10",
+      "text": "Не бойся, ибо Я с тобою; не смущайся, ибо Я Бог твой."
+    },
+    {
+      "id": "synodal:40:5:8",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 40,
+      "book": "От Матфея",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Матфея 5:8",
+      "text": "Блаженны чистые сердцем, ибо они Бога узрят."
+    },
+    {
+      "id": "synodal:40:6:33",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 40,
+      "book": "От Матфея",
+      "chapter": 6,
+      "verse": 33,
+      "reference": "Матфея 6:33",
+      "text": "Ищите же прежде Царства Божия и правды Его, и это все приложится вам."
+    },
+    {
+      "id": "synodal:40:11:28",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 40,
+      "book": "От Матфея",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Матфея 11:28",
+      "text": "Придите ко Мне все труждающиеся и обремененные, и Я успокою вас."
+    },
+    {
+      "id": "synodal:43:3:16",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 43,
+      "book": "От Иоанна",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Иоанна 3:16",
+      "text": "Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий верующий в Него, не погиб, но имел жизнь вечную."
+    },
+    {
+      "id": "synodal:43:8:12",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 43,
+      "book": "От Иоанна",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Иоанна 8:12",
+      "text": "Я свет миру; кто последует за Мною, тот не будет ходить во тьме."
+    },
+    {
+      "id": "synodal:43:14:6",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 43,
+      "book": "От Иоанна",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Иоанна 14:6",
+      "text": "Я есмь путь и истина и жизнь; никто не приходит к Отцу, как только через Меня."
+    },
+    {
+      "id": "synodal:45:8:28",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 45,
+      "book": "К Римлянам",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Римлянам 8:28",
+      "text": "Притом знаем, что любящим Бога все содействует ко благу."
+    },
+    {
+      "id": "synodal:46:10:13",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 46,
+      "book": "1-е Коринфянам",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "1 Коринфянам 10:13",
+      "text": "Верен Бог, Который не попустит вам быть искушаемыми сверх сил."
+    },
+    {
+      "id": "synodal:47:5:17",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 47,
+      "book": "2-е Коринфянам",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "2 Коринфянам 5:17",
+      "text": "Итак, кто во Христе, тот новая тварь; древнее прошло, теперь все новое."
+    },
+    {
+      "id": "synodal:50:4:13",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 50,
+      "book": "К Филиппийцам",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Филиппийцам 4:13",
+      "text": "Все могу в укрепляющем меня Иисусе Христе."
+    },
+    {
+      "id": "synodal:55:1:7",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 55,
+      "book": "2-е Тимофею",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2 Тимофею 1:7",
+      "text": "Ибо дал нам Бог духа не боязни, но силы и любви и целомудрия."
+    },
+    {
+      "id": "synodal:58:11:1",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 58,
+      "book": "К Евреям",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Евреям 11:1",
+      "text": "Вера же есть осуществление ожидаемого и уверенность в невидимом."
+    },
+    {
+      "id": "synodal:59:1:5",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 59,
+      "book": "Иакова",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Иакова 1:5",
+      "text": "Если же у кого из вас недостает мудрости, да просит у Бога."
+    },
+    {
+      "id": "synodal:60:5:7",
+      "translation": "synodal",
+      "language": "ru",
+      "bookNumber": 60,
+      "book": "1-е Петра",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "1 Петра 5:7",
+      "text": "Все заботы ваши возложите на Него, ибо Он печется о вас."
+    }
+  ]
+}
