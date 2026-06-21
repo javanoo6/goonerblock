@@ -3,39 +3,25 @@
   "name": "Goonerblock",
   "version": "0.1.0",
   "description": "Replaces Pornhub video surfaces with Bible verses.",
-  "host_permissions": [
-    "https://www.pornhub.com/*",
-    "https://pornhub.com/*"
-  ],
+  "host_permissions": ["https://www.pornhub.com/*", "https://pornhub.com/*"],
   "content_scripts": [
     {
-      "matches": [
-        "https://www.pornhub.com/*",
-        "https://pornhub.com/*"
-      ],
+      "matches": ["https://www.pornhub.com/*", "https://pornhub.com/*"],
       "css": ["src/content/replacer.css"],
-      "js": [
-        "src/lib/verses.js",
-        "src/content/pornhub-replacer.js"
-      ],
+      "js": ["src/lib/verses.js", "src/content/pornhub-replacer.js"],
       "run_at": "document_idle"
     }
   ],
   "web_accessible_resources": [
     {
-      "resources": [
-        "data/verses.synodal.json",
-        "data/verses.en.json"
-      ],
-      "matches": [
-        "https://www.pornhub.com/*",
-        "https://pornhub.com/*"
-      ]
+      "resources": ["data/verses.synodal.json", "data/verses.en.json"],
+      "matches": ["https://www.pornhub.com/*", "https://pornhub.com/*"]
     }
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "goonerblock@example.local"
+      "id": "goonerblock@javanoo6.github.io",
+      "update_url": "https://javanoo6.github.io/goonerblock/updates.json"
     }
   }
 }
